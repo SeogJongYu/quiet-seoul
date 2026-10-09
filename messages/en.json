@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "A Quiet Day in Seoul — Temple, Mountain & Korean Food",
+    "description": "Step away from Seoul’s busy streets for a slower small-group day of temple, forest, Korean food and tea with a local host."
+  },
+  "nav": {
+    "brand": "A Quiet Day in Seoul",
+    "tag": "A local experience"
+  },
+  "hero": {
+    "eyebrow": "A slower side of the city",
+    "title": "A Quiet Day<br/>in Seoul",
+    "subtitle": "Temple, Mountain & Korean Food",
+    "description": "Step away from the busy streets and spend a slower day discovering a quieter side of Seoul with a local host.",
+    "primary": "Join the first experience",
+    "secondary": "See the experience"
+  },
+  "idea": {
+    "eyebrow": "The idea",
+    "title": "See a different side of Seoul.",
+    "p1": "Seoul can be loud, fast and crowded.",
+    "p2": "But there is another side of the city — quiet temples, forest paths, warm food and long conversations over tea.",
+    "p3": "This small-group experience is designed to help you slow down and experience Seoul like a local."
+  },
+  "highlights": {
+    "eyebrow": "A day, at an easier pace",
+    "title": "Four moments to linger in.",
+    "items": [
+      {
+        "title": "Jinkwansa Temple",
+        "description": "Quiet temple grounds tucked into the mountains of northern Seoul."
+      },
+      {
+        "title": "Easy Forest Walk",
+        "description": "A relaxed walk through the greenery around Bukhansan."
+      },
+      {
+        "title": "Korean Temple Food",
+        "description": "Discover simple Korean flavors in a peaceful setting."
+      },
+      {
+        "title": "Traditional Tea",
+        "description": "Slow down with a cup of Korean tea."
+      }
+    ]
+  },
+  "photo": {
+    "eyebrow": "A little something to take home",
+    "title": "Take home more than memories.",
+    "p1": "Along the way, your host will take a few natural photos of you — from quiet temple corners to forest paths and tea tables.",
+    "p2": "No awkward posing. Just a few moments that feel like your actual day in Seoul.",
+    "alt": [
+      "A quiet moment on a forest path",
+      "A traveler enjoying a cup of tea",
+      "A peaceful walk beneath the trees",
+      "A detail from a slower day"
+    ]
+  },
+  "host": {
+    "eyebrow": "Your company for the day",
+    "title": "Meet your local host",
+    "body": "I'm a Korean local who enjoys showing visitors a quieter side of Seoul. Instead of rushing through a checklist of attractions, I want to share a few places, foods and moments that I genuinely enjoy.",
+    "placeholder": "[Host Photo]"
+  },
+  "itinerary": {
+    "eyebrow": "Sample route & timing",
+    "title": "A day, step by step",
+    "sample": "Illustrative only · final route & timing may change",
+    "items": [
+      {
+        "time": "10:00",
+        "title": "Meet at Gupabal Station · Exit 3",
+        "description": "Meet your host at the proposed starting point in northwest Seoul. Exact meeting spot to be confirmed."
+      },
+      {
+        "time": "10:10",
+        "title": "Bus to Hanago stop",
+        "description": "Take bus 7211 or 7723, then walk about 853 m from the stop to Jingwansa Temple."
+      },
+      {
+        "time": "~10:40",
+        "title": "Jingwansa Temple",
+        "description": "Explore the temple grounds. Address: 73, Jingwan-gil, Eunpyeong-gu, Seoul."
+      },
+      {
+        "time": "12:00",
+        "title": "Baekchowon-gil valley walk",
+        "description": "A proposed easy out-and-back walk from the temple entrance. Final path, distance and duration need to be confirmed."
+      },
+      {
+        "time": "13:30",
+        "title": "Korean meal",
+        "description": "A relaxed meal is planned; venue and availability are not confirmed."
+      },
+      {
+        "time": "14:30",
+        "title": "Traditional tea",
+        "description": "Tea and conversation are planned; venue is not confirmed."
+      },
+      {
+        "time": "16:00",
+        "title": "Return toward central Seoul",
+        "description": "Retrace the route toward Gupabal Station. Sample timing only."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "A good fit if…",
+    "title": "This experience is for you if…",
+    "items": [
+      "You've already seen Seoul's biggest landmarks.",
+      "You want something slower than a typical city tour.",
+      "You enjoy food, nature and local culture.",
+      "You want to experience Seoul with a local rather than a large tour group.",
+      "You'd like a few beautiful photos of your trip."
+    ],
+    "note": "This is an easy nature walk, but comfortable shoes are recommended."
+  },
+  "group": {
+    "eyebrow": "More room for the moment",
+    "number": "2–4",
+    "label": "Planned group size",
+    "title": "Small group. Slow pace.",
+    "body": "The experience is planned for a small group, leaving space for natural conversation, flexible pacing, better photos and a more personal day. Final arrangements are still being worked out."
+  },
+  "faq": {
+    "eyebrow": "A few useful details",
+    "title": "Questions, answered",
+    "items": [
+      {
+        "q": "Is this a religious tour?",
+        "a": "No. The experience focuses on Korean culture, nature, food and everyday local life. Guests do not need to be religious."
+      },
+      {
+        "q": "Do I need to be fit?",
+        "a": "The planned route includes an easy forest walk rather than a strenuous hike. Comfortable shoes are recommended."
+      },
+      {
+        "q": "Will you take photos of us?",
+        "a": "Your host plans to take a few natural travel photos during the experience."
+      },
+      {
+        "q": "Is the experience available every day?",
+        "a": "The schedule is currently being finalized."
+      },
+      {
+        "q": "Can I join alone?",
+        "a": "The experience is designed for small groups, and solo travelers may be able to join depending on the final booking structure."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "The first day is taking shape",
+    "title": "Slow down. See another side of Seoul.",
+    "body": "We're preparing the first small-group experiences now.",
+    "button": "Join the first experience",
+    "note": "Be among the first guests.",
+    "status": "Interest registration is not open yet."
+  },
+  "footer": {
+    "note": "An early concept for a slower day in Seoul.",
+    "copyright": "© 2026 A Quiet Day in Seoul"
+  },
+  "pending": "Translation in progress",
+  "journey": {
+    "eyebrow": "Where & how",
+    "title": "The Journey",
+    "intro": "Meet in northwest Seoul, travel to Jingwansa Temple in Eunpyeong, then follow a nearby valley-side path at an easy pace.",
+    "draft": "Draft logistics · details to be confirmed before launch",
+    "meeting": {
+      "label": "Proposed meeting point",
+      "place": "Gupabal Station · Exit 3",
+      "detail": "A practical starting point for the temple route. The exact meeting spot is not set yet.",
+      "link": "Open meeting point in Maps"
+    },
+    "transport": {
+      "label": "Getting to Jingwansa",
+      "detail": "From Gupabal Station Exit 3, take bus 7211 or 7723 to the Hanago stop.",
+      "lastMile": "From the stop, it is about an 853 m walk to the temple.",
+      "source": "Route information: Visit Seoul"
+    },
+    "temple": {
+      "label": "Jingwansa Temple",
+      "address": "73, Jingwan-gil, Eunpyeong-gu, Seoul 03308",
+      "map": "Open temple location in Maps"
+    },
+    "walk": {
+      "label": "Forest walk under consideration",
+      "detail": "Baekchowon-gil begins at the temple entrance and follows the Bukhansan valley. The exact turnaround point, distance and walking time still need a site check.",
+      "venue": "Korean meal & tea are planned after the walk; venues are not confirmed.",
+      "source": "Visit Korea · walking path overview"
+    },
+    "duration": {
+      "label": "Sample duration",
+      "value": "About 6 hours"
+    },
+    "group": {
+      "label": "Planned group size",
+      "value": "2–4 guests"
+    },
+    "map": {
+      "caption": "Schematic route · not to scale",
+      "north": "N",
+      "city": "Central Seoul",
+      "meeting": "Gupabal Station · Exit 3",
+      "bus": "Bus 7211 / 7723",
+      "stop": "Hanago stop",
+      "temple": "Jingwansa Temple",
+      "walk": "Baekchowon-gil · proposed walk",
+      "food": "Meal & tea · venue TBD",
+      "legend": "Transit",
+      "walkLegend": "Walk route under review",
+      "address": "73 Jingwan-gil, Eunpyeong-gu"
+    }
+  }
+}
